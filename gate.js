@@ -16,13 +16,13 @@
       id: 'v1',
       path: 'v1/',
       title: 'Versão 1 — E03 Lousa do dia',
-      blurb: "E03 · Lousa do dia — cartaz tipográfico com tira de fotos, cardápio em lousa de giz logo após o hero, tíquetes de pedido, comanda de retirada/entrega e placa de rua. Refs: Cucina Pizza, Ouê Sushi, Famiglia Mancini."
+      blurb: "Cartaz tipográfico de letras grandes, com os cultos em destaque."
     },
     {
       id: 'v2',
       path: 'v2/',
       title: 'Versão 2 — E05 Balcão em blocos',
-      blurb: "E05 · Balcão em blocos — grade bento de blocos de cor e foto do hero ao rodapé; cardápio em placas de parede (serif itálico), destaques com foto no meio da grade. Refs: Quinoa, Ahy Prime, placas da própria cafeteria."
+      blurb: "Grelha em blocos de cor e fotografia, do início ao rodapé."
     }
   ];
 
